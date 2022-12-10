@@ -1,0 +1,15 @@
+/Users/logeyko/Desktop/GB/ControlTask/ControlTask_1Q2022_PL/bin/Debug/net6.0/ControlTask_1Q2022_PL
+/Users/logeyko/Desktop/GB/ControlTask/ControlTask_1Q2022_PL/bin/Debug/net6.0/ControlTask_1Q2022_PL.deps.json
+/Users/logeyko/Desktop/GB/ControlTask/ControlTask_1Q2022_PL/bin/Debug/net6.0/ControlTask_1Q2022_PL.runtimeconfig.json
+/Users/logeyko/Desktop/GB/ControlTask/ControlTask_1Q2022_PL/bin/Debug/net6.0/ControlTask_1Q2022_PL.dll
+/Users/logeyko/Desktop/GB/ControlTask/ControlTask_1Q2022_PL/bin/Debug/net6.0/ControlTask_1Q2022_PL.pdb
+/Users/logeyko/Desktop/GB/ControlTask/ControlTask_1Q2022_PL/obj/Debug/net6.0/ControlTask_1Q2022_PL.csproj.AssemblyReference.cache
+/Users/logeyko/Desktop/GB/ControlTask/ControlTask_1Q2022_PL/obj/Debug/net6.0/ControlTask_1Q2022_PL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/logeyko/Desktop/GB/ControlTask/ControlTask_1Q2022_PL/obj/Debug/net6.0/ControlTask_1Q2022_PL.AssemblyInfoInputs.cache
+/Users/logeyko/Desktop/GB/ControlTask/ControlTask_1Q2022_PL/obj/Debug/net6.0/ControlTask_1Q2022_PL.AssemblyInfo.cs
+/Users/logeyko/Desktop/GB/ControlTask/ControlTask_1Q2022_PL/obj/Debug/net6.0/ControlTask_1Q2022_PL.csproj.CoreCompileInputs.cache
+/Users/logeyko/Desktop/GB/ControlTask/ControlTask_1Q2022_PL/obj/Debug/net6.0/ControlTask_1Q2022_PL.dll
+/Users/logeyko/Desktop/GB/ControlTask/ControlTask_1Q2022_PL/obj/Debug/net6.0/refint/ControlTask_1Q2022_PL.dll
+/Users/logeyko/Desktop/GB/ControlTask/ControlTask_1Q2022_PL/obj/Debug/net6.0/ControlTask_1Q2022_PL.pdb
+/Users/logeyko/Desktop/GB/ControlTask/ControlTask_1Q2022_PL/obj/Debug/net6.0/ControlTask_1Q2022_PL.genruntimeconfig.cache
+/Users/logeyko/Desktop/GB/ControlTask/ControlTask_1Q2022_PL/obj/Debug/net6.0/ref/ControlTask_1Q2022_PL.dll
